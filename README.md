@@ -13,17 +13,25 @@ We begin with raw crime data and apply cleaning, standardization, and modeling t
 #Key Metrics
 
 -Crime Rate %
+
 -Population per Crime
+
 -Top Crime Types
+
 -Year-on-Year Crime Trends
+
 -Hotspot Regions
+
 -Data Completeness %
  
  #Repository Files
 
 -indian_crime_dataset.csv — Original dataset
+
 -clean dataset final.pbix — Data cleaning and modeling
+
 -final dashboard.pbix — Completed Power BI dashboard
+
 -README.md — This documentation
 
 #Google Drive Link
@@ -35,7 +43,11 @@ https://drive.google.com/drive/folders/1C7SuZAFkeT7W_VdVDSmwurWLQ90x_mrc?usp=sha
 #Tools & Skills Used
 
 -Power BI
+
 -Data Cleaning
+
 -Data Visualization
+
 -DAX Measures
+
 -Analytical Storytelling
