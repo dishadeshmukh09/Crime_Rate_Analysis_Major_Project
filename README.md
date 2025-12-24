@@ -39,8 +39,13 @@ We begin with raw crime data and apply cleaning, standardization, and modeling t
 Access all project files here:
 https://drive.google.com/drive/folders/1C7SuZAFkeT7W_VdVDSmwurWLQ90x_mrc?usp=sharing
 
+#Dashboard Screenshots
+<img width="1179" height="663" alt="Screenshot 2025-12-24 170449" src="https://github.com/user-attachments/assets/fb18a2e7-cf19-4df5-b93c-8b8cdde830d6" />
 
-#Tools & Skills Used
+<img width="1175" height="667" alt="Screenshot 2025-12-24 170602" src="https://github.com/user-attachments/assets/ccc75c05-0f51-4b2f-94bf-80c3a041620f" />
+
+
+#Tools Used
 
 -Power BI
 
